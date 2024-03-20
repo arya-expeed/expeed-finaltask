@@ -1,0 +1,340 @@
+
+.navbar{
+    height: 40px;
+    padding-top:  30px;
+}
+.navbar-nav .nav-item .nav-link{
+    color:rgba(170, 20, 170, 0.982);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    flex-wrap: nowrap;
+    font-size:25px;
+    font-weight:500;
+}
+.bi-calendar{
+    color: black;
+}
+.img1{
+    width:40px;
+}
+.img2{
+    width:40px;
+    height:40px;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+.date {
+    color: black;
+    font-size: 20px;
+    
+  }
+  
+.total {
+    color: black;
+    font-weight: bolder;
+    font-size: 30px;
+  }
+  
+.currency {
+    font-size: 13px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+  }
+.currency-icon{
+    color: black;
+    font-size: 18px;
+    font-weight: bolder;
+    font-size: 30px;
+  }
+.rounded1{
+    border-radius:5% ;
+    width:300px;
+    height: 180px;
+    background-color: rgb(202, 28, 202);
+}
+.btn1{
+    text-decoration: none;
+    
+}
+.rounded1 .card-body .text-center h3,span{
+    font-size:20px;
+    color: white;
+    
+}
+
+.input-box{
+    border-color: purple;
+}
+.input-group-text{
+    background-color: white;
+     border-color: purple;
+}
+.form-control{
+    border-color: purple;
+}
+
+.currency-icon2{
+    background-color: purple;
+    color: white;
+    font-size: 27px;
+}
+.rounded2{
+    border-radius:5% ;
+    width:300px;
+    height:180px;
+    background-color: rgb(44, 141, 44)
+}
+.totalspend1{
+    font-size: 21px;
+    flex-wrap: nowrap;
+    color:green;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.totalspend2{
+    font-size: 21px;
+    flex-wrap: nowrap;
+    color:goldenrod;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.totalspend3{
+    font-size: 21px;
+    flex-wrap: nowrap;
+    color:rgb(225, 100, 142);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.totalspend4{
+    font-size: 21px;
+    flex-wrap: nowrap;
+    color:rgb(221, 9, 80);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.totalspend5{
+    font-size: 21px;
+    flex-wrap: nowrap;
+    color:rgb(14, 110, 91);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.totalspend6{
+    font-size: 21px;
+    flex-wrap: nowrap;
+    color:rgb(83, 36, 159);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.totalspend7{
+    font-size: 21px;
+    flex-wrap: nowrap;
+    color:rgba(70, 24, 24, 0.955);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.icon-size{
+    width: 25px;
+     height: 18px;
+}
+.col2 .card{
+    border-color: green;
+    border-radius: 5%;
+    width: 300px;
+    height: 180px;
+}
+.col3 .card{
+    border-color:goldenrod;
+    border-radius: 5%;
+    width: 300px;
+    height: 180px;
+}
+.col4 .card{
+    border-color:rgb(225, 100, 142);
+    border-radius: 5%;
+    width: 300px;
+    height: 180px;
+}
+.col5 .card{
+    border-color:rgb(221, 9, 80);
+    border-radius: 5%;
+    width: 300px;
+    height: 180px;
+}
+.col6 .card{
+    border-color:rgb(14, 110, 91);
+    border-radius: 5%;
+    width: 300px;
+    height: 180px;
+}
+.col7 .card{
+    border-color:rgb(83, 36, 159);
+    border-radius: 5%;
+    width: 300px;
+    height: 180px;
+}
+.col8 .card{
+    border-color:rgba(70, 24, 24, 0.955);
+    border-radius: 5%;
+    width: 300px;
+    height: 180px;
+}
+.groceries-container1 {
+    background-color: green;
+    color: white;
+    border-radius: 6% 0px 0px 6%;
+    height: 179px;
+    padding: 15px;
+}
+.groceries-container2 {
+    background-color:goldenrod;
+    color: white;
+    border-radius: 6% 0px 0px 6%;
+    height: 179px;
+    padding: 15px;
+}
+.groceries-container3 {
+    background-color:rgb(225, 100, 142);
+    color: white;
+    border-radius: 6% 0px 0px 6%;
+    height: 179px;
+    padding: 15px;
+}
+.groceries-container4 {
+    background-color:rgb(221, 9, 80);
+    color: white;
+    border-radius: 6% 0px 0px 6%;
+    height: 179px;
+    padding: 15px;
+}
+.groceries-container5 {
+    background-color:rgb(14, 110, 91);
+    color: white;
+    border-radius: 6% 0px 0px 6%;
+    height: 179px;
+    padding: 15px;
+}
+.groceries-container6 {
+    background-color:rgb(83, 36, 159);
+    color: white;
+    border-radius: 6% 0px 0px 6%;
+    height: 179px;
+    padding: 15px;
+}
+.groceries-container7 {
+    background-color:rgba(70, 24, 24, 0.955);
+    color: white;
+    border-radius: 6% 0px 0px 6%;
+    height: 179px;
+    padding: 15px;
+}
+.groceries-container1,.groceries-container2,.groceries-container3,.groceries-container4,.groceries-container5,.groceries-container6,.groceries-container7 .groceries-para{
+    font-weight:lighter;
+    font-size: small;
+   
+}
+
+.groceries-icons {
+    margin-top: 20px; 
+}
+
+.icon-size {
+    width: 24px;
+    height: 24px;
+}
+.icon-size2 {
+    width: 24px;
+    height: 16px;
+}
+.currency-icon {
+    vertical-align: middle;
+}
+.card-text{
+    font-size: 10px;
+    color: gray;
+}
+.currency-icon3{
+    color: green;
+    font-size: 20px;
+}
+.currency-icon4{
+    color: goldenrod;
+    font-size: 20px;
+}
+.currency-icon5{
+    color: rgb(221, 9, 80);
+    font-size: 20px;
+}
+.currency-icon6{
+    color: rgb(14, 110, 91);
+    font-size: 20px;
+}
+.currency-icon7{
+    color: rgb(83, 36, 159);
+    font-size: 20px;
+}
+.currency-icon8{
+    color: rgba(70, 24, 24, 0.955);
+    font-size: 20px;
+}
+.currency-icon9{
+    color: rgb(225, 100, 142);
+    font-size: 20px;
+}
+.utilities{
+    text-decoration: none;
+}
+.container-table{
+    height: 500px;
+}
+.arrow{
+    width: 25px; 
+    height: 18px;
+    fill:black;
+}
+.back-link{
+    text-decoration: none;
+    color: black;
+}
+.div2{
+    display: flex;
+     justify-content: space-between;
+}
+.div2 h5{
+    color: blue;
+}
+.div2 span{
+    font-size: 15px;
+    color: gray;
+}
+.bill{
+    color:white;
+    background-color: purple;
+    border-color: purple;
+}
+.table-icons{
+    width: 25px; 
+    height: 18px;
+    fill:black;
+}
+.action-btn{
+    width: 25px; 
+    height: 18px;
+    fill:gray;
+}
+.fa-pen{
+    text-decoration: none;
+}
+
